@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nlirette
+- 👀 I’m interested in ... game programming
+- 💞️ I’m looking to collaborate on ... open source game engine projects
+- 📫 How to reach me ... I can be reached at noellir@gmail.com
